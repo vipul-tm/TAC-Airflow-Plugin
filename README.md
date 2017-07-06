@@ -3,7 +3,17 @@ TAC is an airflow plugin which helps you to Extract transform and Load your data
 
 ## SCREENSHOTS
 
+### Extractors
 
+![extractor](https://raw.githubusercontent.com/vipul-tm/TAC-Airflow-Plugin/master/images/Selection_048.png)
+
+### Transformers
+
+![extractor](https://raw.githubusercontent.com/vipul-tm/TAC-Airflow-Plugin/master/images/Selection_049.png)
+
+### Loaders
+
+![extractor](https://raw.githubusercontent.com/vipul-tm/TAC-Airflow-Plugin/master/images/Selection_050.png)
 
 
 This is an airflow plugin for ETL processing which can be achieved by using 
